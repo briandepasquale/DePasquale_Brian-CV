@@ -7,7 +7,7 @@ depasquale {at} princeton {dot} edu
 
 I conduct research in theoretical neuroscience and machine learning. Presently, I work with [Carlos Brody](http://brodylab.org) and Jonathan Pillow on latent variable models of evidence accumulation. During my Ph.D. I worked with Larry Abbott on supervised learning in recurrent neural networks. Before that I studied the basal ganglia in the laboratory of Ann Graybiel.
 
-## Publications
+## [Publications](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en)
 
 1. Panichello, M.F., DePasquale, B., Pillow, J.W. & Buschman, T.J. (2018). Error-correcting dynamics in visual working memory.
 
