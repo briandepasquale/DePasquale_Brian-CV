@@ -1,7 +1,7 @@
 ## Brian DePasquale
 
 Postdoctoral Research Associate\
-Princeton Neuroscience Institute\ 
+Princeton Neuroscience Institute\
 Princeton University\
 depasquale {at} princeton {dot} edu 
 
