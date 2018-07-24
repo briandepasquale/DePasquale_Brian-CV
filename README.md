@@ -5,7 +5,7 @@ Princeton Neuroscience Institute\
 Princeton University\
 depasquale {at} princeton {dot} edu 
 
-I conduct research in theoretical neuroscience and machine learning. Presently, I work with Carlos Brody and Jonathan Pillow on latent variable models of evidence accumulation. During my Ph.D. I worked with Larry Abbott on supervised learning in recurrent neural networks. Before that I studied the basal ganglia in the laboratory of Ann Graybiel.
+I conduct research in theoretical neuroscience and machine learning. Presently, I work with [Carlos Brody](http://brodylab.org) and Jonathan Pillow on latent variable models of evidence accumulation. During my Ph.D. I worked with Larry Abbott on supervised learning in recurrent neural networks. Before that I studied the basal ganglia in the laboratory of Ann Graybiel.
 
 ## Publications
 
